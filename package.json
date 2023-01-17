@@ -20,5 +20,20 @@
     "autoprefixer": "10.4.13",
     "postcss": "8.4.21",
     "tailwindcss": "3.2.4"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mherzog4/create-tail-next-mh.git"
+  },
+  "keywords": [
+    "Nextjs",
+    "Tailwind"
+  ],
+  "author": "Matt Herzog <matt@mattherzog.me> (https://mattherzog.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mherzog4/create-tail-next-mh/issues"
+  },
+  "homepage": "https://github.com/mherzog4/create-tail-next-mh#readme"
 }
